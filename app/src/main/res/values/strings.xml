@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MusicCrowdsourcer</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="username_text">Username:</string>
+    <string name="password_text">Password:</string>
+    <string name="login_text">Login</string>
+    <string name="signup_text">Sign Up</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="enter_username">Pick a username</string>
+    <string name="pick_password">Pick a password</string>
+    <string name="groups">Groups</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="make_group">Make new group</string>
+    <string name="join_group">Join New Group</string>
+    <string name="title_activity_new_group">NewGroup</string>
+    <string name="make_group_textview">Make a new group</string>
+    <string name="group_name_hint">Group Name</string>
+    <string name="num_people_textview"># of people</string>
+    <string name="expire_hour_textview">Expire in x hours</string>
+    <string name="select_songs">Select songs</string>
+    <string name="title_activity_song_selector">SongSelector</string>
+    <string name="select_all">Select all</string>
+    <string name="done">Done</string>
+</resources>
